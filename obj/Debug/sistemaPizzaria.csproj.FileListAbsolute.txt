@@ -1,0 +1,7 @@
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\bin\Debug\sistemaPizzaria.exe.config
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\bin\Debug\sistemaPizzaria.exe
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\bin\Debug\sistemaPizzaria.pdb
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\obj\Debug\sistemaPizzaria.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\obj\Debug\sistemaPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\obj\Debug\sistemaPizzaria.exe
+C:\Users\Luis Felipe\source\repos\sistemaPizzaria\sistemaPizzaria\obj\Debug\sistemaPizzaria.pdb
